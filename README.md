@@ -5,7 +5,7 @@ Here's a README file for your GitHub repository based on the content of your doc
 ---
 
 # SolutionNFT Dataset Analysis
-
+![Logo](https://github.com/subbu112/Practice-SQl-with-NFT-dataset/blob/main/DALL%C2%B7E%202024-06-05%2023.40.38%20-%20Design%20a%20professional%20logo%20for%20the%20'Estimated%20Average%20Value%20Calculator'%20incorporating%20elements%20of%20blockchain%20technology%20and%20data%20analysis.%20The%20logo%20fe.webp)
 This repository contains SQL queries and their explanations for analyzing the SolutionNFT dataset. The queries help in extracting various insights from the dataset such as total sales, top transactions, moving averages, and more.
 
 ## Table of Contents
